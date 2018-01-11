@@ -1,0 +1,13 @@
+Gazebo multi-robot simulator, version 7.9.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1515689362 474739245) [Msg] Waiting for master.
+(1515689362 475059114) Failed to create connection to remote host[localhost:11345]
+(1515689363 476312112) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1515689363 476662810) [Msg] Publicized address: 172.17.0.2
+(1515689363 477332801) [Wrn] [GuiIface.cc:256] Couldn't locate specified .ini. Creating file at "/home/rflab/.gazebo/gui.ini"
+(1515689363 477623325) Loaded .ini file from: "/home/rflab/.gazebo/gui.ini"
+(1515689364 281891506) No spacenav daemon found. Spacenav functionality is disabled

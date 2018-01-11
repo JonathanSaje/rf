@@ -1,0 +1,34 @@
+Gazebo multi-robot simulator, version 7.9.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1515689362 535161573) [Msg] Waiting for master.
+(1515689362 536834970) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1515689362 536933304) [Msg] Publicized address: 172.17.0.2
+(1515689362 962541951) [Wrn] [ModelDatabase.cc:340] Getting models from[http://gazebosim.org/models/]. This may take a few seconds.
+(1515689414 370620317) Init world[default]
+(1515689414 788748679) applying Gaussian noise model with mean 0, stddev 1.96e-06, bias 0
+(1515689414 788800269) applying Gaussian noise model with mean 0, stddev 1.96e-06, bias 0
+(1515689414 788831909) applying Gaussian noise model with mean 0, stddev 1.96e-06, bias 0
+(1515689414 788862176) Applying angular velocity noise to IMU[imu].
+  X: Gaussian noise, mean[0], stdDev[1.96e-06] bias[0] precision[0] quantized[0]
+  Y: Gaussian noise, mean[0], stdDev[1.96e-06] bias[0] precision[0] quantized[0]
+  Z: Gaussian noise, mean[0], stdDev[1.96e-06] bias[0] precision[0] quantized[0]
+(1515689414 788878425) applying Gaussian noise model with mean 0, stddev 0.017, bias 0.0999004
+(1515689414 788900914) applying Gaussian noise model with mean 0, stddev 0.017, bias 0.0985224
+(1515689414 788922331) applying Gaussian noise model with mean 0, stddev 0.017, bias -0.0979138
+(1515689414 788942709) Applying linear acceleration noise to IMU[imu].
+  X: Gaussian noise, mean[0], stdDev[0.017] bias[0.0999004] precision[0] quantized[0]
+  Y: Gaussian noise, mean[0], stdDev[0.017] bias[0.0985224] precision[0] quantized[0]
+  Z: Gaussian noise, mean[0], stdDev[0.017] bias[-0.0979138] precision[0] quantized[0]
+(1515689414 792288113) [Wrn] [msgs.cc:1808] Conversion of sensor type[depth] not suppported.
+(1515689414 792388654) [Wrn] [msgs.cc:1808] Conversion of sensor type[imu] not suppported.
+(1515689414 798998968) [Dbg] [gazebo_ros_kobuki.cpp:57] Plugin model name: mobile_base
+(1515689414 811493401) [Wrn] [RaySensor.cc:359] ranges not constructed yet (zero sized)
+(1515689414 811516823) [Wrn] [RaySensor.cc:359] ranges not constructed yet (zero sized)
+(1515689414 811529147) [Wrn] [RaySensor.cc:359] ranges not constructed yet (zero sized)
+(1515689414 821534852) [Wrn] [RaySensor.cc:359] ranges not constructed yet (zero sized)
+(1515689415 12996768) [Wrn] [msgs.cc:1808] Conversion of sensor type[depth] not suppported.
+(1515689415 13052538) [Wrn] [msgs.cc:1808] Conversion of sensor type[imu] not suppported.

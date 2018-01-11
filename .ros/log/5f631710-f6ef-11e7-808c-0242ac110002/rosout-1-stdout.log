@@ -1,0 +1,3 @@
+logging to /home/rflab/.ros/log/5f631710-f6ef-11e7-808c-0242ac110002/rosout.log
+re-publishing aggregated messages to /rosout_agg
+subscribed to /rosout
